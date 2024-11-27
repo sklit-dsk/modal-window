@@ -1,9 +1,9 @@
-import NxWelcome from './nx-welcome';
+import ModalWindow from './modal-window';
 
 export function App() {
   return (
     <div>
-      <NxWelcome title="modal-window" />
+      <ModalWindow/>
     </div>
   );
 }
